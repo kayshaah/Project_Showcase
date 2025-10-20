@@ -33,4 +33,23 @@ Each showcased project features:
 ---
 
 ## 🧭 Structure
+Project_Showcase/
+│
+├── src/
+│ ├── components/ # UI components & animations
+│ ├── app/ # Next.js app router
+│ ├── ai/ # AI prompt logic for summarizing projects
+│ └── lib/ # Utility and data functions
+│
+├── public/ # Static assets
+├── package.json # Dependencies & scripts
+├── firebase.json # Hosting configuration
+└── tailwind.config.ts # Styling & theme setup
 
+🧑‍💻 Author
+
+Kashish Shah
+🎓 M.S. in Applied Artificial Intelligence @ Stevens Institute of Technology
+💼 Former AI Solutions Engineer @ ZS Associates
+🌐 kashishshah.com
+ | LinkedIn
