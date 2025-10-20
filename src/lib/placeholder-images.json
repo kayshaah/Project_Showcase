@@ -1,0 +1,94 @@
+{
+  "placeholderImages": [
+    {
+      "id": "parkeazy-1",
+      "description": "ParkEazy app interface showing a map with available parking spots.",
+      "imageUrl": "https://picsum.photos/seed/101/300/600",
+      "imageHint": "app interface"
+    },
+    {
+      "id": "parkeazy-2",
+      "description": "ParkEazy app notification for a blocked car.",
+      "imageUrl": "https://picsum.photos/seed/102/300/600",
+      "imageHint": "phone notification"
+    },
+    {
+      "id": "cancer-detection-1",
+      "description": "Microscopic view of benign cells.",
+      "imageUrl": "https://picsum.photos/seed/201/800/600",
+      "imageHint": "microscope cells"
+    },
+    {
+      "id": "cancer-detection-2",
+      "description": "Microscopic view of malignant cells with highlighted areas.",
+      "imageUrl": "https://picsum.photos/seed/202/800/600",
+      "imageHint": "science laboratory"
+    },
+    {
+      "id": "ai-portfolio-1",
+      "description": "Chatbot interface of the AI-inspired portfolio.",
+      "imageUrl": "https://picsum.photos/seed/301/800/600",
+      "imageHint": "chatbot interface"
+    },
+    {
+      "id": "ai-portfolio-2",
+      "description": "Resume displayed next to the chatbot.",
+      "imageUrl": "https://picsum.photos/seed/302/800/600",
+      "imageHint": "resume document"
+    },
+    {
+      "id": "semantic-layer-1",
+      "description": "Data pipeline diagram showing ETL process.",
+      "imageUrl": "https://picsum.photos/seed/401/800/600",
+      "imageHint": "data flowchart"
+    },
+    {
+      "id": "semantic-layer-2",
+      "description": "Dashboard showing unified data from the semantic layer.",
+      "imageUrl": "https://picsum.photos/seed/402/800/600",
+      "imageHint": "data dashboard"
+    },
+    {
+      "id": "contract-summarization-1",
+      "description": "A long contract document before summarization.",
+      "imageUrl": "https://picsum.photos/seed/501/800/600",
+      "imageHint": "legal document"
+    },
+    {
+      "id": "contract-summarization-2",
+      "description": "A concise 1-page summary of the contract.",
+      "imageUrl": "https://picsum.photos/seed/502/800/600",
+      "imageHint": "summary report"
+    },
+    {
+      "id": "foodeazy-1",
+      "description": "A delicious plate of avocado toast.",
+      "imageUrl": "https://picsum.photos/id/292/400/250",
+      "imageHint": "avocado toast"
+    },
+    {
+      "id": "foodeazy-2",
+      "description": "A classic bowl of spaghetti carbonara.",
+      "imageUrl": "https://picsum.photos/seed/602/400/250",
+      "imageHint": "pasta dish"
+    },
+    {
+      "id": "foodeazy-3",
+      "description": "A rich and spicy chicken curry.",
+      "imageUrl": "https://picsum.photos/seed/603/400/250",
+      "imageHint": "curry meal"
+    },
+    {
+      "id": "ml-project-1",
+      "description": "Abstract visualization of a machine learning model.",
+      "imageUrl": "https://picsum.photos/seed/701/800/600",
+      "imageHint": "machine learning"
+    },
+    {
+      "id": "ml-project-2",
+      "description": "Graph showing classification results.",
+      "imageUrl": "https://picsum.photos/seed/702/800/600",
+      "imageHint": "data graph"
+    }
+  ]
+}
